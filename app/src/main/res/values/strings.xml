@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">oamk_mobile_native</string>
+    <string name="bmi">"Body mass index"</string>
+    <string name="height">"Height"</string>
+    <string name="weight">"Weight"</string>
+    <string name="underweight">"UNDERWEIGHT"</string>
+    <string name="healthy">"HEALTHY"</string>
+    <string name="overweight">"OVERWEIGHT"</string>
+    <string name="obese">"OBESE"</string>
+    <string name="result_text_bmi">"Your body mass index is %s"</string>
 </resources>
